@@ -215,20 +215,17 @@ https://youtu.be/0mQTpoA6ZQQ
 
 Referente al análisis de los presentes dos capítulos estudiados pudimos concluir que: 
 
-•	 Cuando se aplica un voltaje sinusoidal a un circuito RC, la corriente y todas las caídas de voltaje tambié son ondas seno.
+•	En un circuito RLC en paralelo, la reactancia más pequeña determina la reactancia neta del circuito.
 
-•	La combinación fasorial de la potencia resistiva (potencia real) y la potencia reactiva se llama potencia aparente.
+•	La impedancia de un circuito RLC es puramente resistiva en condición de resonancia.
 
-•	La corriente total que circula en un circuito RC en serie o en paralelo siempre se adelanta al voltaje de fuente.
+•	En condición de resonancia en serie, las reactancias inductiva y capacitiva son iguales.
 
-•	La inductancia total en paralelo es menor que la del inductor más pequeño dispuesto en paralelo.
+•	Las frecuencias críticas son las frecuencias ubicadas por encima y por debajo de la condición de resonancia donde la respuesta del circuito es un 70.7% de la respuesta máxima.
 
-•	Un filtro deja pasar ciertas frecuencias y rechaza otras.
+•	Un filtro pasabanda deja pasar frecuencias localizadas entre las frecuencias críticas baja y alta y rechaza todas las demás.
 
-•	Se puede determinar la impedancia de un circuito midiendo el voltaje aplicado y la corriente total y uti-
-lizando luego la ley de Ohm.
-
-•	La impedancia de un circuito RL varía directamente con la frecuencia.
+•	En un filtro RL pasaaltas, la salida se toma a través del inductor y la salida se adelanta a la entrada.
 
 6.	BIBLIOGRAFÍA
 
