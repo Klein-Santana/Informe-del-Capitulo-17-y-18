@@ -31,7 +31,21 @@ OBJETIVOS ESPECIFICOS
 
 Capítulo 17
 
+![Imagen35](https://user-images.githubusercontent.com/105675013/187807940-955d6e66-be6a-43da-960f-f3fe82b17878.jpg)
+
+![Imagen36](https://user-images.githubusercontent.com/105675013/187807948-26d02d9a-9bce-4498-b8ec-f0bbedafa339.jpg)
+
+![Imagen37](https://user-images.githubusercontent.com/105675013/187807956-554085ec-2986-49b8-b57f-3aed9564ed32.jpg)
+
 Capitulo 18
+
+![Imagen38](https://user-images.githubusercontent.com/105675013/187807971-6fe1059d-9b9a-47b8-a9e3-236b5043546b.jpg)
+
+![Imagen39](https://user-images.githubusercontent.com/105675013/187807978-0abc822c-a687-44e0-9e4f-d3efb5dc9cc4.jpg)
+
+![Imagen40](https://user-images.githubusercontent.com/105675013/187807986-c7e179b7-fcdb-4ff1-a60a-29716dfce4e5.jpg)
+
+![Imagen41](https://user-images.githubusercontent.com/105675013/187807992-861b4811-15d4-4f6a-837b-7e093ffe08a6.jpg)
 
 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
